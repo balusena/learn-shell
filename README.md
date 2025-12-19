@@ -13,4 +13,3 @@ Topics covered:
 9. Quotes
 10. Redirectors
 11. Sed Editors
-12. Automation
